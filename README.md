@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Docker ,Jquery**
 
-- 👨‍💻 All of my projects are available at [https://mohammedsuhail364.github.io/Portfolio/](https://mohammedsuhail364.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at https://github.com/mohammedsuhail364
 
 - 💬 Ask me about **Node js**
 
