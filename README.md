@@ -14,7 +14,7 @@
 
 <!-- Multi-line Dynamic Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%92%BC+EBS+Developer+at+Zoho+Corporation;%E2%9A%A1+Building+Scalable+Web+Solutions+with+MERN;%F0%9F%8F%86+1000%2B+LeetCode+Problems+%7C+Rating%3A+1800;%F0%9F%9A%80+Transforming+Ideas+into+Production-Ready+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%92%BC+EBS+Developer+at+Zoho+Corporation;%E2%9A%A1+Building+Scalable+Web+Solutions+with+MERN;%F0%9F%8F%86+1000%2B+LeetCode+Problems+%7C+Rating%3A+1800+;%F0%9F%9A%80+Transforming+Ideas+into+Production-Ready+Code" alt="Typing SVG" />
 </a>
 
 <!-- Animated Badge Section -->
@@ -82,7 +82,7 @@ tech_stack:
 ```typescript
 const achievements = {
   leetCode: "1000+ problems solved",
-  rating: 1800,
+  rating: 1800+,
   hackathon: "Finalist from 100+ teams",
   cgpa: "8.09/10",
   experience: "Zoho Corporation"
@@ -129,7 +129,7 @@ const mohammed = {
   pronouns: "He/Him",
   location: "India 🇮🇳",
   education: {
-    degree: "B.E. in Computer Science",
+    degree: "B.E",
     college: "Rathinam Technical Campus, Coimbatore",
     cgpa: "8.09/10",
     duration: "2021 - 2025"
@@ -172,7 +172,7 @@ const mohammed = {
 ### **🎯 Professional Highlights**
 
 - 🏢 **EBS Developer** at Zoho Corporation
-- 🏆 **1000+ LeetCode Problems** Solved | Peak Rating: 1800
+- 🏆 **1000+ LeetCode Problems** Solved | Peak Rating: 1800+
 - 🥇 **Hackathon Finalist** - Selected from 100+ teams
 - 📚 **500+ Users** on my Learning Management System
 - 📊 **10,000+ API Calls/Day** handled by my production systems
@@ -206,7 +206,7 @@ const mohammed = {
 <br><br>
 <img src="https://img.shields.io/badge/Solved-1000+-success?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&color=FFA116"/>
 <br>
-<img src="https://img.shields.io/badge/Rating-1800-orange?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=orange&color=orange"/>
+<img src="https://img.shields.io/badge/Rating-1800+-orange?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=orange&color=orange"/>
 <br>
 <img src="https://img.shields.io/badge/Rank-Top_5%25-blueviolet?style=for-the-badge"/>
 
@@ -260,7 +260,7 @@ const mohammed = {
 
 ### **💬 Chat-Us**
 <div align="center">
-<a href="https://mohammedsuhail364.github.io/auth"><img src="https://img.shields.io/badge/LIVE-DEMO-success?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://mohammedsuhail364.github.io/ChatApp"><img src="https://img.shields.io/badge/LIVE-DEMO-success?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/mohammedsuhail364/Chat-Us"><img src="https://img.shields.io/badge/SOURCE-CODE-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
@@ -550,7 +550,7 @@ const mohammed = {
 - 🥇 Hackathon Finalist (100+ teams)
 - ⭐ 1000+ LeetCode Problems
 - 💼 EBS Developer @ Zoho
-- 🎯 Peak Rating: 1800
+- 🎯 Peak Rating: 1800+
 
 </td>
 </tr>
