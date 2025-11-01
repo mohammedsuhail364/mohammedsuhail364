@@ -16,7 +16,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%92%BC+EBS+Developer+at+Zoho+Corporation;%E2%9A%A1+Building+Scalable+Web+Solutions+with+MERN;%F0%9F%8F%86+1000%2B+LeetCode+Problems+%7C+Rating%3A+1800+;%F0%9F%9A%80+Transforming+Ideas+into+Production-Ready+Code" alt="Typing SVG" />
 </a>
-
 <!-- Animated Badge Section -->
 <p align="center">
   <a href="https://portfolio-3d-eosin.vercel.app">
@@ -599,7 +598,7 @@ I'm always excited to discuss new projects, creative ideas, or opportunities!
 </a>
 </td>
 <td align="center">
-<a href="https://twitter.com/mohammedsuhail">
+<a href="https://twitter.com">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 </td>
