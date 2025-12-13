@@ -10,11 +10,11 @@
 <div align="center">
   
 <!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Suhail%20S&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=EBS%20Developer%20@%20Zoho%20|%20MERN%20Stack%20Enthusiast&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Suhail%20S&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%20Developer%20@%20Zoho%20|%20MERN%20Stack%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <!-- Multi-line Dynamic Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%92%BC+EBS+Developer+at+Zoho+Corporation;%E2%9A%A1+Building+Scalable+Web+Solutions+with+MERN;%F0%9F%8F%86+1000%2B+LeetCode+Problems+%7C+Rating%3A+1800+;%F0%9F%9A%80+Transforming+Ideas+into+Production-Ready+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%92%BC++Developer+at+Zoho+Corporation;%E2%9A%A1+Building+Scalable+Web+Solutions+with+MERN;%F0%9F%8F%86+1000%2B+LeetCode+Problems+%7C+Rating%3A+1800+;%F0%9F%9A%80+Transforming+Ideas+into+Production-Ready+Code" alt="Typing SVG" />
 </a>
 <!-- Animated Badge Section -->
 <p align="center">
@@ -51,7 +51,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **Current Position**
 
 ```yaml
-role: "EBS Developer"
+role: " Developer"
 company: "Zoho Corporation"
 location: "Chennai, India"
 start_date: "May 2025"
@@ -136,7 +136,7 @@ const mohammed = {
   
   work_experience: [
     {
-      role: "EBS Developer",
+      role: " Developer",
       company: "Zoho Corporation",
       period: "May 2025 - Present",
       location: "Chennai, India"
@@ -170,7 +170,7 @@ const mohammed = {
 
 ### **🎯 Professional Highlights**
 
-- 🏢 **EBS Developer** at Zoho Corporation
+- 🏢 ** Developer** at Zoho Corporation
 - 🏆 **1000+ LeetCode Problems** Solved | Peak Rating: 1800+
 - 🥇 **Hackathon Finalist** - Selected from 100+ teams
 - 📚 **500+ Users** on my Learning Management System
@@ -269,7 +269,7 @@ const mohammed = {
 
 **Features:**
 - 🔐 JWT Authentication & Security
-- ⚡ WebSocket Real-time Messaging
+- ⚡ Wocket Real-time Messaging
 - 📱 Cross-platform Responsive Design
 - 🗄️ Optimized MongoDB Schemas
 - 👥 User Presence Indicators
@@ -542,13 +542,13 @@ const mohammed = {
 
 <img src="https://img.shields.io/badge/Great_Learning-MERN_Stack-FF6B6B?style=for-the-badge&logo=google&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Zoho-EBS_Developer-C8202F?style=for-the-badge&logo=zoho&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zoho-_Developer-C8202F?style=for-the-badge&logo=zoho&logoColor=white"/>
 
 ### **🏆 Achievements**
 
 - 🥇 Hackathon Finalist (100+ teams)
 - ⭐ 1000+ LeetCode Problems
-- 💼 EBS Developer @ Zoho
+- 💼  Developer @ Zoho
 - 🎯 Peak Rating: 1800+
 
 </td>
