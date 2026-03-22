@@ -259,7 +259,7 @@ const mohammed = {
 
 ### **💬 Chat-Us**
 <div align="center">
-<a href="https://mohammedsuhail364.github.io/ChatApp"><img src="https://img.shields.io/badge/LIVE-DEMO-success?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://chat-app-c0br.onrender.com/"><img src="https://img.shields.io/badge/LIVE-DEMO-success?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/mohammedsuhail364/Chat-Us"><img src="https://img.shields.io/badge/SOURCE-CODE-blue?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
