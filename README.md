@@ -22,7 +22,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,30&height=90&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,30&height=70&section=header" />
 
 <table>
 <tr>
@@ -32,15 +32,15 @@
 
 ```javascript
 const mohammed = {
-  role:        "Software Development Engineer",
-  focus:       "Backend & Distributed Systems",
-  company:     "Zoho Corporation, Coimbatore",
-  education:   "B.E. Computer Science · Rathinam Technical Campus · CGPA 8.09",
-  currently:   "Building enterprise workflow automation & backend services",
+  role:           "Software Development Engineer",
+  focus:          "Backend & Distributed Systems",
+  company:        "Zoho Corporation, Coimbatore",
+  education:      "B.E. Computer Science · Rathinam Technical Campus · CGPA 8.09",
+  currently:      "Building enterprise workflow automation & backend services",
   alreadyLearned: ["Java", "Spring Boot", "Node.js", "Redis", "Docker"],
-  mastering:   ["Rust", "System Design", "Low-Level Design"],
-  interests:   ["Competitive Programming", "Open Source"],
-  openTo:      "Backend engineering roles 🤝"
+  mastering:      ["Rust", "System Design", "Low-Level Design"],
+  interests:      ["Competitive Programming", "Open Source"],
+  openTo:         "Backend engineering roles 🤝"
 };
 ```
 
@@ -180,6 +180,14 @@ Real-time chat with Redis-backed presence tracking, cursor-based message paginat
 </details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,30&height=70&section=footer" />
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+_Updating soon. This section refreshes automatically with recent issues, pull requests, and comments._
+<!--END_SECTION:activity-->
+
+---
 
 ## 📊 Stats & Activity
 
