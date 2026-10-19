@@ -3,24 +3,34 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches: ["main"]
 
 permissions:
   contents: write
 
 jobs:
-  snake:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: Platane/snk/svg-only@v3
+
+      - name: Update recent activity
+        uses: Readme-Workflows/recent-activity@master
+        with:
+          GH_USERNAME: mohammedsuhail364
+          MAX_LINES: 5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate snake graph
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mohammedsuhail364
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
+
+      - name: Publish snake graph
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
