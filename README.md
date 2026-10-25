@@ -127,7 +127,7 @@ const mohammed = {
 <a href="https://github.com/mohammedsuhail364/url_shortener">
   <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedsuhail364&repo=url_shortener&theme=tokyonight&hide_border=true&bg_color=1a1b26"/>
 </a>
-<a href="https://github.com/mohammedsuhail364/Chat-Us">
+<a href="https://github.com/mohammedsuhail364/Chat_App">
   <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedsuhail364&repo=Chat-Us&theme=tokyonight&hide_border=true&bg_color=1a1b26"/>
 </a>
 
@@ -161,7 +161,7 @@ Distributed task queue with priority queues, Redis-based distributed locking, an
 Real-time chat with Redis-backed presence tracking, cursor-based message pagination, and delivery status (Sent, Delivered, Seen).
 
 <a href="https://chat-app-c0br.onrender.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-7AA2F7?style=flat-square&logo=vercel&logoColor=1a1b26&labelColor=1a1b26"/></a>
-<a href="https://github.com/mohammedsuhail364/Chat-Us"><img src="https://img.shields.io/badge/SOURCE-bb9af7?style=flat-square&logo=github&logoColor=1a1b26&labelColor=1a1b26"/></a>
+<a href="https://github.com/mohammedsuhail364/Chat_App"><img src="https://img.shields.io/badge/SOURCE-bb9af7?style=flat-square&logo=github&logoColor=1a1b26&labelColor=1a1b26"/></a>
 
 </details>
 
